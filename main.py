@@ -11,7 +11,7 @@ from pickle import FLOAT
 from PyNite import FEModel3D
 from PyNite import Visualization
 
-###آرایه مساوی آرایه نقاط مش اولیه
+
 
 
 # Create a new model
@@ -162,7 +162,7 @@ for f2 in distincted:
                frame.add_node_load( meshnode[a], 'FZ', stress2D)  # O
 
 
-#پایان حلقه
+
 
 #continue "Space Frame - Nodal Loads 1.py" for stress load
 #-----------------------------------
